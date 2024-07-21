@@ -4,3 +4,15 @@
 
 [node name="Node2D" type="Node2D"]
 script = ExtResource( 1 )
+
+[node name="Label" type="Label" parent="."]
+margin_left = -500.0
+margin_top = -186.0
+margin_right = 507.0
+margin_bottom = 394.0
+text = "fdfdsfdsfffffffffsdfdsfsfsfsfsdsfffffffffffffffffffffffffffffffffffffffff"
+align = 1
+autowrap = true
+
+[node name="Camera2D" type="Camera2D" parent="."]
+current = true
